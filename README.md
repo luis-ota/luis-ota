@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 
+[![luis-ota's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=luis-ota&theme=dracula&show_icons=true)](https://github.com/luis-ota)
 
-![Passossss GitHub stats](https://github-readme-stats.vercel.app/api?username=luis-ota&show_icons=true&theme=dracula)
+![luis-ota GitHub stats](https://github-readme-stats.vercel.app/api?username=luis-ota&show_icons=true&theme=dracula)
 
 
   <a href = "mailto:luotasss@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
