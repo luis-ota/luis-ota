@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+see my blog here: https://luis-ota.github.io/luis-blog/
+
 <!--
 **luis-ota/luis-ota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
