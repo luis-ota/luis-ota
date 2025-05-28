@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-see my blog here: https://luis-ota.github.io/luis-blog/
+see my blog here: https://blog.wired.rs
 
 <!--
 **luis-ota/luis-ota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
